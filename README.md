@@ -12,3 +12,8 @@ The **Movielens 10M Dataset** consists of the follows features :
 5. **Timestamp** : This field stores the timestamp, for the time when the rating was given. It is a numeric value, which the stores the time in reference to *January 1,1970*.  
 
 The **Movielens 10M Dataset** can be downloaded from https://grouplens.org/datasets/movielens/10m/. 
+
+This repository consists of the following files :  
+1. **Movielens_Capstone_Code.R** : R Code for the implementation of the recommendation system.  
+2. **Movielens_Project_Report.pdf** : Report for the recommendation system in PDF format.  
+3. **Movielens_Project_Report.rmd** : Report for the recommendation system in RMD format.  
