@@ -1,4 +1,4 @@
-#Movielens Recommendation System - Capstone Project
+# Movielens Recommendation System - Capstone Project
 
 For this project, we make use of the **Movielens 10M Dataset**. The Movielens datasets were collected by the *GroupLens Research Project* at the *University of Minnesota*.  
 
